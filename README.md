@@ -12,10 +12,14 @@ This repository contains frontend projects developed for learning and improving 
 
 4. [Meme Generator](https://irfanur2811.github.io/Frontend-Projects/Meme-Generator/)
 
-5. [QR Code Generator](https://irfanur2811.github.io/Frontend-Projects/QR%20code%20Generator/)
+5. [Music Player](https://irfanur2811.github.io/Frontend-Projects/Music%20Player/)
 
-6. [Rock Paper Scissors Game](https://irfanur2811.github.io/Frontend-Projects/Rock%20Paper%20Scissors%20Game/)
+6. [Photo Editor](https://irfanur2811.github.io/Frontend-Projects/Photo%20Editor/)
 
-7. [Spelling Bee](https://irfanur2811.github.io/Frontend-Projects/SpellingBee/)
+7. [QR Code Generator](https://irfanur2811.github.io/Frontend-Projects/QR%20code%20Generator/)
 
-8. [Text To Speech Converter](https://irfanur2811.github.io/Frontend-Projects/Text%20to%20Speech%20Converter/)
+8. [Rock Paper Scissors Game](https://irfanur2811.github.io/Frontend-Projects/Rock%20Paper%20Scissors%20Game/)
+
+9. [Spelling Bee](https://irfanur2811.github.io/Frontend-Projects/SpellingBee/)
+
+10. [Text To Speech Converter](https://irfanur2811.github.io/Frontend-Projects/Text%20to%20Speech%20Converter/)
